@@ -1,0 +1,74 @@
+body {
+    background-color: bisque
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Open+Sans+Condensed:wght@300&family=Open+Sans:ital,wght@0,300;1,300&family=Oswald:wght@200;300&family=Roboto:ital,wght@0,100;1,100&display=swap');
+h1 {
+    color: cornflowerblue;
+    font-family: fantasy;
+    text-align: left;
+    text-transform: initial;
+}
+
+#p{
+    color: cornflowerblue;
+    font-family: fantasy;
+    font-size: 30px;
+    margin: 10px 20px;
+    border: dotted 5px;
+    border-color: darkgoldenrod;
+}
+
+img{
+    width: 90px;
+    box-shadow: darkgoldenrod 5px 5px 10px;
+    margin: 10px;
+}
+
+#firstText {
+    color: darkgoldenrod;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    text-align: initial;
+    line-height: 30px;
+}
+
+#secondText {
+    color: olivedrab;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    text-align: justify;
+    line-height: 30px;
+}
+
+#picture1 {
+    width: 100px;
+    box-shadow: darkgoldenrod 5px 5px 10px;
+    margin: 10px;
+}
+
+#picture2 {
+    width: 95px;
+    box-shadow: darkgoldenrod 5px 5px 10px;
+    margin: 10px;
+}
+
+#thirdText {
+    color: cadetblue;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    text-align: justify;
+    line-height: 30px;
+}
+
+#picture3 {
+    width: 120px;
+    box-shadow: darkgoldenrod 5px 5px 10px;
+    margin: 10px;
+}
+
+.img-div{
+    background-color: darkseagreen;
+    }
